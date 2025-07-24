@@ -1,3 +1,4 @@
++incdir+$ROOT_PATH/STEP2/RTL
 -sverilog $ROOT_PATH/STEP2/RTL/AMBA_INTF.sv
 -sverilog $ROOT_PATH/STEP2/RTL/ddr2_model_parameters.vh
 -sverilog $ROOT_PATH/STEP2/RTL/DDR_INTF.sv
