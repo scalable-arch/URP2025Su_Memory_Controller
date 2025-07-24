@@ -1,3 +1,4 @@
++incdir+$ROOT_PATH/STEP1/RTL
 -sverilog $ROOT_PATH/STEP1/RTL/TIME_SCALE.svh
 -sverilog $ROOT_PATH/STEP1/RTL/SAL_DDR_PARAMS.svh
 -sverilog $ROOT_PATH/STEP1/RTL/ddr2_model_parameters.vh
